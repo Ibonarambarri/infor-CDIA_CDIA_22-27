@@ -9,6 +9,7 @@ Nuestro objetivo es fomentar la colaboración y el intercambio de conocimientos 
 
 No dudes en explorar el repositorio y descubrir todas las posibilidades que ofrece. ¡Estamos emocionados de ver lo que puedes crear y cómo puedes ayudar a impulsar el conocimiento en nuestras carreras!
 
+
 No dudes en contactarnos:
  - ibon.arambarri@opendeusto.es
  - e.eguskiza@opendeusto.es
