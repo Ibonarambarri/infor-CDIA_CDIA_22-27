@@ -3,7 +3,8 @@
 
 ¡Hola estudiantes de Ingeniería Informática, Ciencia de Datos y otras carreras relacionadas! Os doy la bienvenida a este repositorio de GitHub, diseñado especialmente para almacenar programas y aplicaciones relacionados con cualquier asignatura de nuestras carreras.
 
-Aquí encontrarás una amplia variedad de proyectos creados por estudiantes como tú, desde programas básicos hasta aplicaciones más avanzadas y complejas. Podrás explorar diferentes lenguajes de programación, tecnologías y frameworks utilizados en el desarrollo de estos proyectos.
+Aquí encontrarás una amplia variedad de proy
+ectos creados por estudiantes como tú, desde programas básicos hasta aplicaciones más avanzadas y complejas. Podrás explorar diferentes lenguajes de programación, tecnologías y frameworks utilizados en el desarrollo de estos proyectos.
 
 Nuestro objetivo es fomentar la colaboración y el intercambio de conocimientos entre los estudiantes, así que te animamos a compartir tus proyectos, realizar contribuciones y ayudar a tus compañeros de clase.
 
