@@ -18,3 +18,4 @@ No dudes en contactarnos:
  
  Un agradecimiento a:
   - Ignacio Manero Larreategui 
+  - Alex Jauregui Orue
